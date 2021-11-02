@@ -1,0 +1,5 @@
+
+*.xml
+.idea/Equ.iml
+conf/__pycache__/pH1_conf.cpython-38.pyc
+*.pyc
